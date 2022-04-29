@@ -247,7 +247,3 @@ Si queremos buscar cuántas veces utilizamos un atributo de HTML lo hacemos con 
     </td>
   </tr>
 </table>
-
----
-
-#### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***01b_git*** de Slack

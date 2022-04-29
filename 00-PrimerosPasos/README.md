@@ -20,27 +20,6 @@
   <iframe src="https://player.vimeo.com/video/638636752" title="Instructivo de Primeros Pasos" allow="autoplay; fullscreen"></iframe>
 </div>
 
-## Homeworks
-
-En este [link](https://github.com/soyHenry/Prep-Course/tree/main/) vas a encontrar el repositorio con las homeworks de cada unidad en su correspondiente carpeta.
-
-**IMPORTANTE:** Para ejecutar los tests de cada homework tenes que pararte en la carpeta donde clonaste tu repo (es decir la carpeta donde está este `README.md`) y ejecutar el siguiente comando:
-
-```bash
-npm install
-```
-
-Esto instalará todas las dependencias necesarias (lo tenés que hacer una sóla vez), una vez terminado y cada vez que quieras ver cuantos tests pasaste ejecutá:
-
-```bash
-npm test {nombre del homework}.test.js
-```
-
-Por ejemplo, para ejecutar los tests del homework 02, ejecutar: `npm test JSII.test.js`, el del homework 01: `npm test JSI.test.js`
-y así.
-
-> No todos los homeworks tienen tests, está detallado en la descripción de cada uno.
-
 > **Importante**: Github cambió el método de autenticación, ahora es por PAT (Personal Access Token), para crearlo pueden seguir este [link](https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). Pueden elegir expiration infinita para hacerlo una sóla vez.
 
 ## Cómo usar SLACK
@@ -50,8 +29,6 @@ y así.
 </div>
 
 > Gracias [Nico Constantin (FT#12)](https://github.com/NicoConstantin) por el video y la explicación!
-
-- Para ingresar al espacio de Slack del Prep Course de Henry, por favor ingresa a la [plataforma de admisión](https://www.admissions.soyhenry.com/) donde encontrarás el link de acceso al mismo.
 
 ## Editores de Texto
 
@@ -292,7 +269,3 @@ Ya tenemos todo para empezar... Éxitos!!! 🍀
     </td>
   </tr>
 </table>
-
----
-
-#### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***01a-primeros-pasos*** de Slack
